@@ -1,0 +1,72 @@
+﻿'{
+
+	TitleName   = YMF262(OPL3) test
+	TitleNameJ  =
+	GameName    =
+	GameNameJ   =
+	SystemName  =
+	SystemNameJ =
+	Composer    =
+	ComposerJ   =
+	ReleaseDate =
+	Converted   =
+	Notes       =
+
+}
+
+
+'Cn1 T120
+
+
+'@ L 000 "Celeste or Flute"
+'@ 13 4 5 2 0 16 1 1 1 0 0 3
+'@ 7   3 9 5 0 0   3 1 0 0 1 0
+'@ 0 2
+
+'D0102 @0v63l4o5q0
+'D02   D-2r32(12
+'D0102 >cdefg2< r1 l8b4.e16f+16b>daf+4d4e^2
+'D02   ~32
+
+
+'@ L 1 "BELL"
+   AR  DR  SL  RR  KSL TL  MT  AM  VIB EGT KSR WS
+'@ 011 007 003 002 000 026 006 001 000 000 001 005
+'@ 015 000 005 002 000 000 001 000 001 000 001 000
+   CNT FB
+'@ 000 006
+
+'D0102 @1v63l4o5q0
+'D02   D-2r32(12
+'D0102 >cdefg2< r1 l8b4.e16f+16b>daf+4d4e^2
+'D02   ~32
+
+
+
+'@ L 2 "鈴(2Ch:D-1o7b)" 
+   AR  DR  SL  RR  KSL TL  MT  AM  VIB EGT KSR WS
+'@ 007 004 009 003 000 020 009 000 001 000 000 005
+'@ 009 005 011 010 000 000 015 000 001 000 000 000
+   CNT FB
+'@ 000 005
+
+'D0102 @2v63l4o7q1
+'D02   D-1
+'D0102 brbbrr brb16b16br
+
+
+
+'@ L 3 "Mello Piano(AM)"
+   AR  DR  SL  RR  KSL TL  MT  AM  VIB EGT KSR WS
+'@ 008 002 002 006 000 013 001 001 001 000 001 004
+'@ 009 001 003 014 000 000 003 000 001 001 001 004
+   CNT FB
+'@ 001 000
+
+'D0102 @3v63l4o5q0
+'D02   D-2r32(12v0
+'D0102 >cdefg2< r1 l8b4.e16f+16b>daf+4d4e^2
+'D02   ~32
+
+
+
